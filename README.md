@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alain-tresor-uwineza-01a811235/) 
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/alaintresor/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="alaintresor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p> -->
 ## 📊 My Github Stats
 
   <br/>
