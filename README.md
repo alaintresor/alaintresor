@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m @alaintresor
 - 👀 I’m software development enthusiast 
-<!-- - 🌱 I’m currently using Flutter + Django  -->
 - 💞️ in love with programming
 - 📫 How to reach me 
 - whatsapp + call" +250780591269"
