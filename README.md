@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @alaintresor
-- 👀 I’m software development enthusiast 
+- 👀 I’m a software development enthusiast 
 - 💞️ in love with programming
 - 📫 How to reach me 
-- whatsapp + call" +250780591269"
 - Email:tresoralain35@gmail.com
 
 ## 🌐 Socials:
